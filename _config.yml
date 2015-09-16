@@ -86,3 +86,12 @@ duoshuo_shortname: kavinhan
 social:
   github: https://github.com/kavinhan
   zhihu: http://www.zhihu.com/people/kavin-han
+
+
+# title, chinese available
+links_title: Links
+# links
+links:
+  Lee Byung Gook: http://kowon.dongseo.ac.kr/~lbg/
+  Lee Suk Ho: http://kowon.dongseo.ac.kr/~ppddee/
+  Mink: http://cangmean.org/

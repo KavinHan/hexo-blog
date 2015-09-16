@@ -3,7 +3,6 @@ date: 2015-09-15 20:56:22
 categories: "Deep Learning"
 tags: "caffe"
 ---
-# Install Caffe on Ubuntu 14.04
 
 ## Hardware Detail
 * CPU: E5-2630
