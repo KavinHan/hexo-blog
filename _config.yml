@@ -5,10 +5,11 @@
 # Site
 title: Kavin's Home
 subtitle: Just for memo
-description:
+description: kavinhan@163.com
 author: kavin Han
 language: en
 timezone:
+email: kavinhan@163.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,7 +65,7 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 plugins:
 - hexo-generator-cname
-- hexo-deployer-git
+
 ## Themes: http://hexo.io/themes/
 theme: next
 
@@ -77,7 +78,7 @@ deploy:
 
 
 # duoshuo chajian
-duoshuo_shortname: kavinhan
+# duoshuo_shortname: kavinhan
 
 # baidu analysis
 # baidu_analytics: b28a56158c86c98c575fc2b182ae4d55
