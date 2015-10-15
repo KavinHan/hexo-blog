@@ -71,17 +71,17 @@ theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/KavinHan/kavinhan.github.io.git
-  branch: test
+# deploy:
+#   type: git
+#   repo: ssh://github.com/KavinHan/kavinhan.github.io.git
+#   branch: test
 
 
 # duoshuo chajian
 # duoshuo_shortname: kavinhan
 
 # baidu analysis
-# baidu_analytics: b28a56158c86c98c575fc2b182ae4d55
+baidu_analytics: c255c7af56b11c31766ed9f2e0d72b9b
 
 # Social links
 social:
