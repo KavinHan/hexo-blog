@@ -12,6 +12,10 @@
   {{ __('footer.powered', '<a class="theme-link" href="http://hexo.io">Hexo</a>') }}
 </div>
 
+<div class="powered-by">
+  <a href="http://www.miitbeian.gov.cn/">吉ICP备12004920号-3</a>
+</div>
+
 <div class="theme-info">
   {{ __('footer.theme') }} -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
