@@ -1,10 +1,10 @@
-title: Install-Torch-7-on-Ubuntu-14-04
+title: Ubuntu14.04 安装 Torch 7
 date: 2015-09-17 10:24:51
 categories: "Deep Learning"
 tags: Torch
 ---
 
-## Install
+## 安装
 ```
 $> mkdir ~/torch
 $> cd ~/torch
@@ -16,6 +16,6 @@ $> th
 // If th run is ok, then install success.
 ```
 
-## Reference
-http://torch.ch/
-http://torch.ch/docs/getting-started.html#_
+## 参考
+- http://torch.ch/
+- http://torch.ch/docs/getting-started.html#_
